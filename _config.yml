@@ -6,7 +6,7 @@ theme: minima
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
-url: "https://solar-todo.github.io"
+url: "https://solartodo.github.io"
 baseurl: "/solartodo-tech"
 author: SOLARTODO Engineering Team
 future: true
