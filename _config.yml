@@ -1,0 +1,11 @@
+title: SOLARTODO Technical Blog
+description: >-
+  Engineering notes, deployment guides and project case studies on solar energy,
+  smart streetlights, telecom & power towers, and smart infrastructure.
+theme: minima
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+url: "https://solar-todo.github.io"
+baseurl: "/solartodo-tech"
+author: SOLARTODO Engineering Team
