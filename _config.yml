@@ -9,3 +9,4 @@ plugins:
 url: "https://solar-todo.github.io"
 baseurl: "/solartodo-tech"
 author: SOLARTODO Engineering Team
+future: true
